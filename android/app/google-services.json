@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941855113395",
+    "project_id": "docsaverapp-59c87",
+    "storage_bucket": "docsaverapp-59c87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941855113395:android:2e6f51b3dd88e579c9b0c6",
+        "android_client_info": {
+          "package_name": "com.example.document_saver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941855113395-4ju1af8iu9pkcdn9k563v3j3kb5l9d4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuotcIPWY3wc3Yw2hyDNqLMbCcG-a9TkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941855113395-4ju1af8iu9pkcdn9k563v3j3kb5l9d4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
